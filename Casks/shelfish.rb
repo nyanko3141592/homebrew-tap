@@ -1,6 +1,6 @@
 cask "shelfish" do
-  version "1.3.0"
-  sha256 "8124e3aaead271f669e3f27ebcad75c9c05a7c66c62a4f5257031dc73ce9d4cd"
+  version "1.3.1"
+  sha256 "6c1045c0fcffc4ab0d3f291c4301fd68002003ea3f80835def1aab3f73bed27e"
 
   url "https://github.com/nyanko3141592/shelfish/releases/download/v#{version}/Shelfish-v#{version}-arm64.dmg"
   name "Shelfish"
