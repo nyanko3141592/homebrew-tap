@@ -1,6 +1,6 @@
 cask "clipnest" do
-  version "1.3.1"
-  sha256 "e2b8f2120d475625caaa5739b2c9c528ab3d5c001d96d55497ba520726873200"
+  version "1.3.2"
+  sha256 "a2cd6829701cc98884647bcd8e605892e3147f09bebc7e4535bde104a2bc6b15"
 
   url "https://github.com/nyanko3141592/ClipNest/releases/download/v#{version}/ClipNest.dmg"
   name "ClipNest"
