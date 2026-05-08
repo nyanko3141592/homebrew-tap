@@ -1,6 +1,6 @@
 cask "pawshot" do
-  version "1.5.1"
-  sha256 "806b7247cf7b8dfadb4e867fa2a5c46bcfd3137702cd127fc8bd186b9970f546"
+  version "1.6.0"
+  sha256 "2a835ae23dd95c0d41ce4c4d343c69020958f70f5814d8ded3c3b6d6fc39f1ad"
 
   url "https://github.com/nyanko3141592/Pawshot/releases/download/v#{version}/Pawshot-#{version}.dmg"
   name "Pawshot"
